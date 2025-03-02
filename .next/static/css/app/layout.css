@@ -764,6 +764,12 @@ video {
 .h-7 {
   height: 1.75rem;
 }
+.h-8 {
+  height: 2rem;
+}
+.h-9 {
+  height: 2.25rem;
+}
 .max-h-\[738px\] {
   max-height: 738px;
 }
@@ -793,6 +799,12 @@ video {
 }
 .w-7 {
   width: 1.75rem;
+}
+.w-8 {
+  width: 2rem;
+}
+.w-9 {
+  width: 2.25rem;
 }
 .flex-none {
   flex: none;

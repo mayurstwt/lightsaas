@@ -36,7 +36,7 @@ const Header = () => {
             <Image src={Logo} height={40} width={40} alt="logo" />
             <button onClick={toggleMenu} className="md:hidden">
               {isMenuOpen ? (
-                <CrossIcon className="h-7 w-7" /> // Display cross icon when menu is open
+                <CrossIcon className="h-9 w-9" /> // Display cross icon when menu is open
               ) : (
                 <MenuIcon className="h-7 w-7" /> // Display menu icon when menu is closed
               )}
